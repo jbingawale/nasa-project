@@ -1,0 +1,8 @@
+node_modules
+
+# server side 
+server/public
+server/.env
+
+# testing
+/coverage
